@@ -1,0 +1,7 @@
+.*
+!.editorconfig
+!.github/
+!.gitignore
+!.gitlab-ci.yml
+!.markdownlint.yaml
+!.pre-commit-config.yaml
